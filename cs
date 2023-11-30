@@ -1,4 +1,4 @@
-🌈 彩虹频道_6058,#genre#
+🌈 彩虹频道_13579,#genre#
 Playboy,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/527/index.m3u8
 Bazzers TV Europe,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/910/index.m3u8
 Blue Hustler,http://0f3f161d.cbilant.com/iptv/PBL2QAUAQNXWXU/1064/index.m3u8
@@ -191,7 +191,7 @@ HUSTLER,http://185.235.165.5:80/live/gasolina/gasolina/773968.ts$源2
 DUSK ,http://185.235.165.5:80/live/gasolina/gasolina/773969.ts$源2
 
 
-点播台1🔒_6058,#genre#
+点播台1🔒_13579,#genre#
 一本道1,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
 一本道2,https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
 一本道3,https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
@@ -588,7 +588,7 @@ DUSK ,http://185.235.165.5:80/live/gasolina/gasolina/773969.ts$源2
 一本道394,https://vip4.ddyunbo.com/20210808/Pf1jWJ54/index.m3u8
 一本道395,https://vip4.ddyunbo.com/20210626/yasWpN6k/index.m3u8
 
-点播台2🔒_6058,#genre#
+点播台2🔒_13579,#genre#
 FSDSS-281,https://siwazywcdn2.com:5278/zhongwenzimu/KzrREYpO/index.m3u8
 EBOD-850,https://siwazywcdn2.com:5278/zhongwenzimu/wUliXmh0/index.m3u8
 IPX-709,https://siwazywcdn2.com:5278/zhongwenzimu/IpONA2W8/index.m3u8
@@ -938,7 +938,7 @@ HEYZO-2559,https://siwazywcdn2.com:5278//yazhouwuma/tHC3xmBl/index.m3u8
 ADN-017,https://siwazywcdn2.com:5278//zhongwenzimu/71AKDJUw/index.m3u8
 RCTD-341,https://siwazywcdn2.com:5278//zhongwenzimu/01l52txJ/index.m3u8
 
-点播台3🔒_6058,#genre#
+点播台3🔒_13579,#genre#
 hmn-141-アンナ,https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/052b9624/index.m3u8
 hnd-277板野,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/01596a03/index.m3u8
 HND-774市川花音,https://siwazywcdn2.com:5278/zhongwenzimu/uYyvOsg1/index.m3u8
