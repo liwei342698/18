@@ -46,6 +46,5 @@ Gay(男同),http://cdn.adultiptv.net/gay.m3u8
 Asian(亚洲),http://cdn.adultiptv.net/asian.m3u8
 
 AdultIPTV,#genre#
-五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
-未来体育,http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
-TVB,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+BSB1,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+BSB2,http://1.245.74.5:1935/live/tv/.m3u8
