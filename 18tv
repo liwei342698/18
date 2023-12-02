@@ -44,3 +44,10 @@ Brunette(巴西),http://cdn.adultiptv.net/brunette.m3u8
 Blonde(金发),http://cdn.adultiptv.net/blonde.m3u8
 Gay(男同),http://cdn.adultiptv.net/gay.m3u8
 Asian(亚洲),http://cdn.adultiptv.net/asian.m3u8
+
+AdultIPTV,#genre#
+CNR 香港之声,http://live.xmcdn.com/live/44/64.m3u8
+CNR 香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+GoodTV 爱旅行台,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
+GoodTV 经典音乐,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
+GoodTV 真情部落,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
